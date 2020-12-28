@@ -1,0 +1,52 @@
+body {
+	background-color: #222;
+	color: #fff;
+	font-family: Arial;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+#str-to-type {
+	color: #00f2ec;
+}
+
+#time, #status {
+	font-size: 3rem;
+}
+
+input {
+	width: 60vw;
+	height: 50px;
+	border-radius: 3px;
+	color: #fff;
+	font-weight: bold;
+	border: 0;
+}
+
+#result {
+	background-color: #fff;
+	width: 60vw;
+	height: 50px;
+	border-radius: 3px;
+	font-weight: bold;
+	display: none;
+	margin-top: -50px;
+	font-size: 2.5rem;
+}
+
+#btn-layout {
+	margin-top: 40px;
+}
+
+#btn-layout button {
+	background-color: #00f2ec;
+	padding: 36px;
+	border-radius: 10px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#instructions {
+	color: #ff074b;
+}
